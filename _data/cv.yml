@@ -4,7 +4,6 @@ cv:
   email: jyjllll1025@postech.ac.kr
   location: Pohang, South Korea
   image: ""
-  summary:
 
   social_networks:
     - network: GitHub
@@ -22,7 +21,7 @@ cv:
         start_date: 2025-09
         end_date: present
         highlights:
-          - Machine Learning Lab (Advisor: Prof. Sangdon Park)
+          - "Machine Learning Lab (Advisor: Prof. Sangdon Park)"
 
       - institution: POSTECH, Department of Computer Science and Engineering
         location: Pohang, South Korea
@@ -64,16 +63,13 @@ cv:
         highlights:
           - Developed an anomaly detection model for wafer data, significantly improving fault detection accuracy and process reliability.
 
-    Awards:
       # - name: Award name
       #   date: 2025-01
       #   awarder: Organization
       #   summary: One-line description.
 
-    Skills:
       # - label: Programming
       #   details: Python, PyTorch, SQL
 
-    Interests:
       # - label: Research
       #   details: # fill in your research interests
