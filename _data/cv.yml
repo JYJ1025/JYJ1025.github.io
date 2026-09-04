@@ -22,6 +22,7 @@ cv:
         end_date: present
         highlights:
           - "Machine Learning Lab (Advisor: Prof. Sangdon Park)"
+          - "GPA: 4.20/4.30 (Major GPA: 4.20/4.30)"
 
       - institution: Pohang University of Science and Technology (POSTECH)
         location: Pohang, South Korea
@@ -42,12 +43,12 @@ cv:
         end_date: 2020-12
 
     Experience:
-      - company: Machine Learning Lab, POSTECH
-        position: Graduate Student Researcher
-        location: Pohang, South Korea
-        start_date: 2025-09
-        end_date: present
-        summary: Advised by Prof. Sangdon Park.
+      # - company: Machine Learning Lab, POSTECH
+      #   position: Graduate Student Researcher
+      #   location: Pohang, South Korea
+      #   start_date: 2025-09
+      #   end_date: present
+      #   summary: Advised by Prof. Sangdon Park.
 
       - company: Machine Learning Lab, POSTECH
         position: Undergraduate Student Intern
@@ -77,6 +78,8 @@ cv:
           - Developed an anomaly detection model for wafer data, significantly improving fault detection accuracy and process reliability.
 
     Honors and Awards:
+      - title: "POSTECHIAN Fellowship ($2,000)"
+        awarder: POSTECH
       - title: "Second Prize, 2023 TECHATHON: WAVE"
         awarder: POSTECH
         date: 2023-02
@@ -102,6 +105,6 @@ cv:
     Interests:
       - name: Research
         keywords:
-          - Machine Learning
+          - Embodied AI (Robot Learning)
+          - Reinforcement Learning
           - Trustworthy AI
-          - Robotics
