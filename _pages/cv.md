@@ -4,7 +4,7 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 3
-cv_pdf: # /assets/pdf/cv.pdf — put your CV PDF here to show a download button
+cv_pdf: /assets/pdf/YJ_CV.pdf
 cv_format: rendercv # options: rendercv, jsonresume
 description: Curriculum vitae.
 toc:

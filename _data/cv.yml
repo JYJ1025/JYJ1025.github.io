@@ -23,28 +23,41 @@ cv:
         highlights:
           - "Machine Learning Lab (Advisor: Prof. Sangdon Park)"
 
-      - institution: POSTECH, Department of Computer Science and Engineering
+      - institution: Pohang University of Science and Technology (POSTECH)
         location: Pohang, South Korea
         url: https://cse.postech.ac.kr/
         area: Computer Science and Engineering
         studyType: B.S.
         start_date: 2021-02
         end_date: 2025-06
+        highlights:
+          - "GPA: 3.70/4.30 (Major GPA: 3.77/4.30)"
 
-      - institution: Korea Science Academy of KAIST
+      - institution: Korea Science Academy of KAIST (KSA)
         location: Busan, South Korea
         url: https://www.ksa.hs.kr/
+        area: Chemistry
         studyType: High School Diploma
         start_date: 2018-02
         end_date: 2020-12
 
     Experience:
       - company: Machine Learning Lab, POSTECH
-        position: Student Researcher
+        position: Graduate Student Researcher
         location: Pohang, South Korea
         start_date: 2025-09
         end_date: present
         summary: Advised by Prof. Sangdon Park.
+
+      - company: Machine Learning Lab, POSTECH
+        position: Undergraduate Student Intern
+        location: Pohang, South Korea
+        start_date: 2024-01
+        end_date: 2025-06
+        summary: Advised by Prof. Sangdon Park.
+        highlights:
+          - Studied unlearning techniques for large language models, removing specific information from pre-trained models without retraining.
+          - Explored and implemented selective generation methods to mitigate and control hallucinations in text generation, improving model reliability.
 
       - company: Bagelcode
         position: Jr. Data Scientist Intern, Data Science Team
@@ -52,24 +65,43 @@ cv:
         start_date: 2024-06
         end_date: 2024-08
         highlights:
-          - Scaled the MLOps pipeline to support new object types.
+          - Scaled the MLOps pipeline to support new object types, ensuring robust deployment and lifecycle management of machine learning models.
           - Migrated to an incremental ETL architecture, reducing data processing costs and improving pipeline efficiency.
 
-      - company: Samsung Electronics, Innovation Center (now AI Center)
-        position: Intern, AI Solution Team
-        location: South Korea
+      - company: Samsung Electronics, Device Solutions (DS)
+        position: Intern, AI Solution Team, Innovation Center (now AI Center)
+        location: Suwon, South Korea
         start_date: 2023-07
         end_date: 2023-08
         highlights:
           - Developed an anomaly detection model for wafer data, significantly improving fault detection accuracy and process reliability.
 
-      # - name: Award name
-      #   date: 2025-01
-      #   awarder: Organization
-      #   summary: One-line description.
+    Honors and Awards:
+      - title: "Second Prize, 2023 TECHATHON: WAVE"
+        awarder: POSTECH
+        date: 2023-02
+      - title: Encouragement Award, 2021 Undergraduate Group Research Program
+        awarder: POSTECH
+        date: 2022-02
 
-      # - label: Programming
-      #   details: Python, PyTorch, SQL
+    Skills:
+      - name: Programming Languages
+        keywords:
+          - Python
+          - C
+          - C++
+          - Verilog
+          - SQL
 
-      # - label: Research
-      #   details: # fill in your research interests
+    Languages:
+      - language: Korean
+        fluency: Native
+      - language: English
+        fluency: Professional working proficiency
+
+    Interests:
+      - name: Research
+        keywords:
+          - Machine Learning
+          - Trustworthy AI
+          - Robotics

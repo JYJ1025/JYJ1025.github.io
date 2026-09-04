@@ -5,4 +5,4 @@ email: jyjllll1025@postech.ac.kr # your email address
 scholar_userid: b2srJhEAAAAJ # your Google Scholar ID
 linkedin_username: "%EC%9C%A4%EC%9E%AC-%EC%A0%95-4398b2285" # percent-encoded form of 윤재-정-4398b2285
 github_username: JYJ1025 # your GitHub username
-# cv_pdf: /assets/pdf/cv.pdf # CV PDF 경로. 값을 채울 때만 주석을 해제하세요 (빈 값이면 빌드가 깨집니다)
+cv_pdf: /assets/pdf/YJ_CV.pdf # CV PDF 경로 (빈 값으로 두면 빌드가 깨집니다)

@@ -2,13 +2,10 @@
 layout: page
 permalink: /awards/
 title: awards
-description: Awards, honors, and scholarships.
+description: Honors and awards.
 nav: true
 nav_order: 4
 ---
 
-<!-- TODO: 수상 내역을 아래 형식으로 채우세요.
-
-- **Award name**, Awarding organization. *Month Year*
-
--->
+- **Second Prize**, 2023 TECHATHON: WAVE, POSTECH. *February 2023*
+- **Encouragement Award**, 2021 Undergraduate Group Research Program, POSTECH. *February 2022*
