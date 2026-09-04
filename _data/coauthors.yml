@@ -1,0 +1,4 @@
+# Map author last names to display info so jekyll-scholar can link them.
+# "Park":
+#   - firstname: ["Sangdon"]
+#     url: https://sangdon-park.github.io/

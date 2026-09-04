@@ -1,0 +1,79 @@
+cv:
+  name: Yoonjae Jung
+  label: Integrated Ph.D. Candidate, POSTECH GSAI
+  email: jyjllll1025@postech.ac.kr
+  location: Pohang, South Korea
+  image: ""
+  summary:
+
+  social_networks:
+    - network: GitHub
+      username: JYJ1025
+    - network: LinkedIn
+      username: "%EC%9C%A4%EC%9E%AC-%EC%A0%95-4398b2285"
+
+  sections:
+    Education:
+      - institution: POSTECH, Graduate School of Artificial Intelligence (GSAI)
+        location: Pohang, South Korea
+        url: https://gsai.postech.ac.kr/
+        area: Artificial Intelligence
+        studyType: Integrated M.S./Ph.D.
+        start_date: 2025-09
+        end_date: present
+        highlights:
+          - Machine Learning Lab (Advisor: Prof. Sangdon Park)
+
+      - institution: POSTECH, Department of Computer Science and Engineering
+        location: Pohang, South Korea
+        url: https://cse.postech.ac.kr/
+        area: Computer Science and Engineering
+        studyType: B.S.
+        start_date: 2021-02
+        end_date: 2025-06
+
+      - institution: Korea Science Academy of KAIST
+        location: Busan, South Korea
+        url: https://www.ksa.hs.kr/
+        studyType: High School Diploma
+        start_date: 2018-02
+        end_date: 2020-12
+
+    Experience:
+      - company: Machine Learning Lab, POSTECH
+        position: Student Researcher
+        location: Pohang, South Korea
+        start_date: 2025-09
+        end_date: present
+        summary: Advised by Prof. Sangdon Park.
+
+      - company: Bagelcode
+        position: Jr. Data Scientist Intern, Data Science Team
+        location: Seoul, South Korea
+        start_date: 2024-06
+        end_date: 2024-08
+        highlights:
+          - Scaled the MLOps pipeline to support new object types.
+          - Migrated to an incremental ETL architecture, reducing data processing costs and improving pipeline efficiency.
+
+      - company: Samsung Electronics, Innovation Center (now AI Center)
+        position: Intern, AI Solution Team
+        location: South Korea
+        start_date: 2023-07
+        end_date: 2023-08
+        highlights:
+          - Developed an anomaly detection model for wafer data, significantly improving fault detection accuracy and process reliability.
+
+    Awards:
+      # - name: Award name
+      #   date: 2025-01
+      #   awarder: Organization
+      #   summary: One-line description.
+
+    Skills:
+      # - label: Programming
+      #   details: Python, PyTorch, SQL
+
+    Interests:
+      # - label: Research
+      #   details: # fill in your research interests
