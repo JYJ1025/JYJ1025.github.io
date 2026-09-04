@@ -30,3 +30,9 @@ latest_posts:
 <!-- TODO: 이 아래에 자기소개와 연구 관심사를 직접 작성하세요. -->
 
 I am an Integrated Ph.D. candidate at the Graduate School of Artificial Intelligence, POSTECH, where I am advised by Prof. Sangdon Park in the Machine Learning Lab. I received my B.S. in Computer Science and Engineering from POSTECH.
+
+## awards
+
+- **POSTECHIAN Fellowship** ($2,000), POSTECH. *September 2025*
+- **Second Prize**, 2023 TECHATHON: WAVE, POSTECH. *February 2023*
+- **Encouragement Award**, 2021 Undergraduate Group Research Program, POSTECH. *February 2022*
