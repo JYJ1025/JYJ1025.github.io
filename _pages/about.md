@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: Integrated Ph.D. Candidate, <a href='https://gsai.postech.ac.kr/'>Graduate School of Artificial Intelligence</a>, POSTECH. <a href='mailto:jyjllll1025@postech.ac.kr'>jyjllll1025@postech.ac.kr</a>
+# subtitle: Integrated Ph.D. Candidate, <a href='https://gsai.postech.ac.kr/'>Graduate School of Artificial Intelligence</a>, POSTECH. <a href='mailto:jyjllll1025@postech.ac.kr'>jyjllll1025@postech.ac.kr</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Machine Learning Lab</p>
-    <p>Advisor: Prof. Sangdon Park</p>
-    <p>POSTECH, Pohang, South Korea</p>
+  # more_info: >
+  #   <p>Machine Learning Lab</p>
+  #   <p>Advisor: Prof. Sangdon Park</p>
+  #   <p>POSTECH, Pohang, South Korea</p>
 
 social: true # includes social icons at the bottom of the page
 
@@ -32,18 +32,19 @@ latest_posts:
 
 I am an Integrated Ph.D. candidate at the Graduate School of Artificial Intelligence, POSTECH, where I am advised by Prof. Sangdon Park in the Machine Learning Lab. I received my B.S. in Computer Science and Engineering from POSTECH.
 
+My research focuses on reinforcement learning for reliable and scalable physical AI systems. I am particularly interested in developing learning algorithms that enable embodied agents to operate safely and robustly under distribution shifts and unforeseen situations in the real world. Within this broader direction, I study generative policies, such as diffusion and flow-based policies, with an emphasis on preserving diverse and multimodal behaviors during reinforcement learning rather than collapsing to a narrow set of actions. I am also interested in designing reinforcement learning algorithms that remain effective and computationally practical as policy models, datasets, and robotic systems scale up.
+
 <div style="clear: both"></div>
 
-## [news](/news/)
+## [News](/news/)
 
 {% include news.liquid limit=true %}
 
-## [selected publications](/publications/)
+## [Selected Publications](/publications/)
 
 {% include selected_papers.liquid %}
 
-## honors and awards
-
+## [Honors and awards](/cv/)
 - **POSTECHIAN Fellowship** ($2,000), POSTECH. *September 2025*
 - **Second Prize**, 2023 TECHATHON: WAVE, POSTECH. *February 2023*
 - **Encouragement Award**, 2021 Undergraduate Group Research Program, POSTECH. *February 2022*
