@@ -22,7 +22,6 @@ cv:
         end_date: present
         highlights:
           - "Machine Learning Lab (Advisor: Prof. Sangdon Park)"
-          - "GPA: 4.20/4.30 (Major GPA: 4.20/4.30)"
 
       - institution: Pohang University of Science and Technology (POSTECH)
         location: Pohang, South Korea
@@ -31,8 +30,6 @@ cv:
         studyType: B.S.
         start_date: 2021-02
         end_date: 2025-06
-        highlights:
-          - "GPA: 3.70/4.30 (Major GPA: 3.77/4.30)"
 
       - institution: Korea Science Academy of KAIST (KSA)
         location: Busan, South Korea
