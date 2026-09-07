@@ -30,7 +30,7 @@ latest_posts:
 
 <!-- TODO: 이 아래에 자기소개와 연구 관심사를 직접 작성하세요. -->
 
-I am an Integrated Ph.D. candidate at the Graduate School of Artificial Intelligence, POSTECH, where I am advised by Prof. Sangdon Park in the Machine Learning Lab. I received my B.S. in Computer Science and Engineering from POSTECH.
+I am an Integrated Ph.D. candidate at the Graduate School of Artificial Intelligence, POSTECH, where I am advised by [Prof. Sangdon Park](https://sangdon.github.io) in the Machine Learning Lab. I received my B.S. in Computer Science and Engineering from POSTECH.
 
 My research focuses on reinforcement learning for reliable and scalable physical AI systems. I am particularly interested in developing learning algorithms that enable embodied agents to operate safely and robustly under distribution shifts and unforeseen situations in the real world. Within this broader direction, I study generative policies, such as diffusion and flow-based policies, with an emphasis on preserving diverse and multimodal behaviors during reinforcement learning rather than collapsing to a narrow set of actions. I am also interested in designing reinforcement learning algorithms that remain effective and computationally practical as policy models, datasets, and robotic systems scale up.
 
