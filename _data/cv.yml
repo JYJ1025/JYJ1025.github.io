@@ -34,7 +34,7 @@ cv:
       - institution: Korea Science Academy of KAIST (KSA)
         location: Busan, South Korea
         url: https://www.ksa.hs.kr/
-        area: Chemistry
+        # area: Chemistry
         studyType: High School Diploma
         start_date: 2018-02
         end_date: 2020-12
