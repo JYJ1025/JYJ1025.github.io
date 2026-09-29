@@ -54,7 +54,7 @@ cv:
         end_date: 2025-06
         summary: Advised by Prof. Sangdon Park.
         highlights:
-          - Theoretical Safety Guarantees under Risk: Developed theoretical guarantees to bound and control risk in target deployment scenarios, ensuring safe behavior under real-world distribution shifts.
+          - "Theoretical Safety Guarantees under Risk: Developed theoretical guarantees to bound and control risk in target deployment scenarios, ensuring safe behavior under real-world distribution shifts."
 
       - company: Bagelcode
         position: Jr. Data Scientist Intern, Data Science Team
@@ -62,8 +62,8 @@ cv:
         start_date: 2024-06
         end_date: 2024-08
         highlights:
-          - MLOps Pipeline Development & Expansion: Analyzed Airflow and Databricks-based data processing architectures to build and support MLOps pipelines for churn prediction models using user behavior data
-          - Data Engineering & Optimization: Extracted and validated feature store/inference datasets via complex SQL, and transitioned ETL workflows from full-refresh to incremental processing, significantly reducing compute costs and improving pipeline efficiency.
+          - "MLOps Pipeline Development & Expansion: Analyzed Airflow and Databricks-based data processing architectures to build and support MLOps pipelines for churn prediction models using user behavior data."
+          - "Data Engineering & Optimization: Extracted and validated feature store/inference datasets via complex SQL, and transitioned ETL workflows from full-refresh to incremental processing, significantly reducing compute costs and improving pipeline efficiency."
 
       - company: Samsung Electronics, Device Solutions (DS)
         position: Intern, AI Solution Team, Innovation Center (now AX/PI Center)
@@ -71,8 +71,8 @@ cv:
         start_date: 2023-07
         end_date: 2023-08
         highlights:
-          - Automated Anomaly Detection: Implemented and evaluated the Anomaly Transformer model on real manufacturing data to automate manual inspection processes.
-          - Practical Validation & Feasibility: Identified real-world deployment challenges and limitations, providing insights into improving model reliability and automation potential.
+          - "Automated Anomaly Detection: Implemented and evaluated the Anomaly Transformer model on real manufacturing data to automate manual inspection processes."
+          - "Practical Validation & Feasibility: Identified real-world deployment challenges and limitations, providing insights into improving model reliability and automation potential."
 
     Honors and Awards:
       - title: "POSTECHIAN Fellowship ($2,000)"
