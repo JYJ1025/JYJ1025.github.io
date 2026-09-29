@@ -54,8 +54,7 @@ cv:
         end_date: 2025-06
         summary: Advised by Prof. Sangdon Park.
         highlights:
-          - Studied unlearning techniques for large language models, removing specific information from pre-trained models without retraining.
-          - Explored and implemented selective generation methods to mitigate and control hallucinations in text generation, improving model reliability.
+          - Theoretical Safety Guarantees under Risk: Developed theoretical guarantees to bound and control risk in target deployment scenarios, ensuring safe behavior under real-world distribution shifts.
 
       - company: Bagelcode
         position: Jr. Data Scientist Intern, Data Science Team
@@ -63,16 +62,17 @@ cv:
         start_date: 2024-06
         end_date: 2024-08
         highlights:
-          - Scaled the MLOps pipeline to support new object types, ensuring robust deployment and lifecycle management of machine learning models.
-          - Migrated to an incremental ETL architecture, reducing data processing costs and improving pipeline efficiency.
+          - MLOps Pipeline Development & Expansion: Analyzed Airflow and Databricks-based data processing architectures to build and support MLOps pipelines for churn prediction models using user behavior data
+          - Data Engineering & Optimization: Extracted and validated feature store/inference datasets via complex SQL, and transitioned ETL workflows from full-refresh to incremental processing, significantly reducing compute costs and improving pipeline efficiency.
 
       - company: Samsung Electronics, Device Solutions (DS)
-        position: Intern, AI Solution Team, Innovation Center (now AI Center)
+        position: Intern, AI Solution Team, Innovation Center (now AX/PI Center)
         location: Suwon, South Korea
         start_date: 2023-07
         end_date: 2023-08
         highlights:
-          - Developed an anomaly detection model for wafer data, significantly improving fault detection accuracy and process reliability.
+          - Automated Anomaly Detection: Implemented and evaluated the Anomaly Transformer model on real manufacturing data to automate manual inspection processes.
+          - Practical Validation & Feasibility: Identified real-world deployment challenges and limitations, providing insights into improving model reliability and automation potential.
 
     Honors and Awards:
       - title: "POSTECHIAN Fellowship ($2,000)"
